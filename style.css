@@ -54,5 +54,15 @@ h1 {
  color: #34495e
 }
 
-
+#restart-button {
+ padding: 12px 25px;
+ font-size: 16px;
+ curso: pointer;
+ border: none;
+ background-color: #2ecc
+ color: white;
+ border-radius: 8px;
+ transition: all 0.3s ease;
+ box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
 
