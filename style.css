@@ -66,3 +66,12 @@ h1 {
  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+#restart-button:hover {
+    background-color: #27ae60;
+    transform: translateY(-2px);
+}
+
+.winner {
+    background-color: #f1c40f !important;
+    color: white !important;
+}
